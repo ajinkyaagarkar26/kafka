@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.learning
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, gradle, http-client, jackson-databind, java, java-application, jib, jmx, junit, kafka, kafka-streams, log4j2, lombok, management, micrometer, micrometer-jmx, micrometer-prometheus, micronaut-build, mockito, netty-server, readme, shade, test-resources, tracing-opentelemetry-exporter-logging, yaml]
